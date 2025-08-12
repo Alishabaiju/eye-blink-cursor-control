@@ -13,7 +13,7 @@ Team Members
 
 This project was completed as part of a group assignment.
 
-Alisha Baiju
+Alisha Baiju (https://github.com/Alishabaiju)
 Aiswarya Madhu
 Aisha Hussain
 Aksa Mary John
@@ -22,5 +22,6 @@ Aksa Mary John
 ```bash
 pip install -r requirements.txt
 python virtual_cursor.py
+
 
 
