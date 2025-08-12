@@ -8,8 +8,19 @@ A Python-based assistive technology project that lets users control a computer c
 - Scroll using vertical eye tracking
 - Real-time on-screen feedback
 
+
+Team Members
+
+This project was completed as part of a group assignment.
+
+Alisha Baiju
+Aiswarya Madhu
+Aisha Hussain
+Aksa Mary John
+
  Requirements
 ```bash
 pip install -r requirements.txt
 python virtual_cursor.py
+
 
